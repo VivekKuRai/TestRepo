@@ -1,0 +1,3 @@
+com\home\work\services\beans\HelloWorldBean.class
+com\home\work\services\controller\HelloWorldController.class
+com\home\work\services\HelloWorldRestApiApplication.class
