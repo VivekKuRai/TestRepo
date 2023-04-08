@@ -21,4 +21,9 @@ public class HelloWorldController {
     public HelloWorldBean heyMessage(){
         return new HelloWorldBean("Hey Folks.");
     }
+    @GetMapping("say/hi")
+    public HelloWorldBean hiMessage(){
+        return new HelloWorldBean("Hi Folks.");
+    }
+
 }
